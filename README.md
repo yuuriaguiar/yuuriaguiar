@@ -2,9 +2,12 @@
 
 <div>
   <a href="https://github.com/yuuriaguiar">
+  <br/>
+  <a href="https://github.com/yuuriaguiar/yuuriaguiar.git"><img alt="Yuri Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=yuuriaguiar&layout=compact&langs_count=8&theme=dark&hide=javascript" /></a>
+  <br/>
 </div>
 
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rust" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
