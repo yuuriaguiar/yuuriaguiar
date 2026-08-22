@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/yuuriaguiar">
   <br/>
-  <a href="https://github.com/yuuriaguiar/yuuriaguiar.git"><img alt="Yuri Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=yuuriaguiar&layout=compact&langs_count=8&theme=dark&hide=" /></a>
+  <a href="https://github.com/yuuriaguiar/yuuriaguiar.git"><img alt="Yuri Github Stats" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=yuuriaguiar&layout=compact&langs_count=8&theme=dark&hide-" /></a>
   <br/>
 </div>
 
